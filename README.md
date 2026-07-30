@@ -43,7 +43,7 @@ Accurate prediction of energy usage is crucial for smart energy management. This
 ## 📈 Results
 - Achieved high accuracy in forecasting household power consumption
 - Identified key factors influencing consumption (time of day, sub-meter usage)
-- Visualized trends and prediction performance
+- Visualized trends and prediction performance.
 
 ## 📌 Key Visuals
 - Heatmaps for correlation analysis
