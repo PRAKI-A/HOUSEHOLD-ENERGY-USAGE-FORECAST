@@ -31,7 +31,7 @@ Accurate prediction of energy usage is crucial for smart energy management. This
 **Source**: [UCI Machine Learning Repository - Individual Household Electric Power Consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)  
 - Duration: 2006 to 2010  
 - Frequency: 1-minute intervals  
-- Features: Active power, reactive power, voltage, intensity, sub-metering
+- Features: Active power, reactive power, voltage, intensity, sub-metering.
 
 ## 🧪 Methodology
 1. **EDA**: Explored trends, correlations, and time-based patterns
