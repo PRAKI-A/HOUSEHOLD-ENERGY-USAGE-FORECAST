@@ -38,7 +38,7 @@ Accurate prediction of energy usage is crucial for smart energy management. This
 2. **Data Cleaning**: Handled missing values, parsed datetime, created time-based features
 3. **Feature Engineering**: Created rolling averages, daily summaries, peak hour flags
 4. **Modeling**: Trained Linear Regression, Random Forest, Gradient Boosting, MLP
-5. **Evaluation**: Compared models using RMSE, MAE, R²
+5. **Evaluation**: Compared models using RMSE, MAE, R².
 
 ## 📈 Results
 - Achieved high accuracy in forecasting household power consumption
