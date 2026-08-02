@@ -50,4 +50,4 @@ Accurate prediction of energy usage is crucial for smart energy management. This
 - Time-series plots for energy trends
 - Bar charts showing feature importance
 
-## 📁 Project Structure
+## 📁 Project Structure.
