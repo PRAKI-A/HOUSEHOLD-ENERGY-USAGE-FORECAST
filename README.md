@@ -12,7 +12,7 @@ Accurate prediction of energy usage is crucial for smart energy management. This
 - Forecast energy consumption for households
 - Detect anomalies in usage patterns
 - Assist energy providers in demand forecasting
-- Encourage eco-friendly habits through usage insights
+- Encourage eco-friendly habits through usage insights.
 
 ## 🧰 Tools & Technologies
 - Python
