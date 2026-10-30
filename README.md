@@ -5,7 +5,7 @@
 # PowerPulse: Household Energy Usage Forecast 🔋📊
 
 ## 📌 Overview
-PowerPulse is a machine learning project aimed at forecasting household energy consumption based on historical data. By developing a regression model, this project helps both consumers and energy providers optimize energy usage, reduce costs, and promote sustainability
+PowerPulse is a machine learning project aimed at forecasting household energy consumption based on historical data. By developing a regression model, this project helps both consumers and energy providers optimize energy usage, reduce costs, and promote sustainability.
 
 ## 🔍 Problem Statement
 Accurate prediction of energy usage is crucial for smart energy management. This project builds a predictive model to:
